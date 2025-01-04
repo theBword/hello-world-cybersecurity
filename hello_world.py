@@ -1,2 +1,2 @@
-# Hello World of Cybersecurity
+(hello-world-cybersecurity)
 print("Hello, World of Cybersecurity!")
